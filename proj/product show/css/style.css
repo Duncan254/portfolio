@@ -1,0 +1,213 @@
+body{
+	font-family:Arial; 
+}
+.logo{
+	font-family:Arial,Rounded MT;
+	font-size:34px; 
+   color: #ef041f;
+
+}
+.logo span{
+	 color: #ffb202;
+	 margin-left:5px;
+	
+}
+.nav ul{
+	display:inline-flex;
+  list-style:none; 
+  margin-top:17px;
+  margin-right:70px; 
+
+}
+.nav li{
+	font-family:Arial,Rounded MT;
+ margin-right:50px;
+  font-size:17px;
+ 
+}
+.nav a{
+color:black; 
+}
+.nav a:hover{
+	text-decoration:none;
+		 color: #ffb202;
+		 transition-duration:0.3s;
+		    
+}
+.nav span{
+	color: #ffb202;
+}
+.shape{
+	background-color:#ef041f;
+	width:700px;
+	height:790px;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    position:absolute;
+    z-index:-1; 
+    margin-top:-100px;
+    overflow:hidden;       
+}
+.carousel{
+	margin-left:-260px;  
+}
+.nav span:hover{
+	color:black; 
+}
+.cont h3{
+	color:#ef041f; 
+}
+.cont h2{
+	color:black; 
+
+}
+.cont p{
+	margin-right:70px; 
+}
+.ilustration2 img{
+	width:290px;
+	height:290px;
+	margin-bottom:50px;
+	margin-top:-100px;  
+margin-left:400px; 
+   
+}
+
+
+
+
+.card {
+ 
+ 
+  width: 100px;
+  height: 350px;
+    margin-left:110px; 
+  background: white;
+ box-shadow: 0px 0px 0px grey;
+  -webkit-transition:  box-shadow .2s ease-out;
+     box-shadow: .8px .9px 3px grey;
+
+}
+.card:hover{ 
+     box-shadow: 1px 8px 20px grey;
+    -webkit-transition:  box-shadow .2s ease-in;
+  }
+ 
+body {
+  background-color: #F0EFEE;
+}
+.card2 {
+
+  width: 100px;
+  height: 350px;
+  margin-left:70px; 
+  background: white;
+ box-shadow: 0px 0px 0px grey;
+  -webkit-transition:  box-shadow .2s ease-out;
+     box-shadow: .8px .9px 3px grey;
+
+}
+.card2:hover{ 
+     box-shadow: 1px 8px 20px grey;
+    -webkit-transition:  box-shadow .2s ease-in;
+  }
+  .card3 {
+
+  width: 100px;
+  height: 350px;
+  background: white;
+   margin-left:70px;
+ box-shadow: 0px 0px 0px grey;
+  -webkit-transition:  box-shadow .2s ease-out;
+     box-shadow: .8px .9px 3px grey;
+
+}
+.card3:hover{ 
+     box-shadow: 1px 8px 20px grey;
+    -webkit-transition:  box-shadow .2s ease-in;
+  }
+ 
+.space{
+	height:700px;
+	width:300px;
+	color:white;   
+} 
+.product img{
+	height:353px;
+	width:350px;
+	margin-top:-200px;
+	margin-left:-4px;   
+}
+.product p{
+	text-align: center;
+	margin-left:40px;
+	color:black;
+	font-size:16px;   
+}
+.btn{
+	width:65px;
+	height:35px;
+	background-color:#ef041f;
+	color:#feac00;
+	align-content: center;
+	margin-left:130px;
+	margin-top:32px;     
+}
+.ilu2 img{
+	height:90px;
+	width:100px;  
+}
+.ilu3 img{
+	height:130px;
+	width:140px;
+
+}
+.mango img{
+	height:220px;
+	width:240px;
+}
+.mango{
+	margin-top:70px;
+	margin-left:80px;
+
+}
+.links li{
+	  list-style:none; 
+}
+.links h6{
+	color: #ef041f;
+}
+.links a{
+	text-decoration:none;
+	color:black;  
+}
+.links a:hover{
+	color: #ef041f;
+		text-decoration:none; 
+}
+.thank h6{
+margin-left:270px;  
+}
+.thank p{
+margin-left:270px; 	
+}
+.thank img{
+	margin-left:-170px; 
+}
+.thank{
+	margin-top:30px;   
+}
+.link li{
+	 list-style:none; 
+}
+.link h6{
+	color: #ef041f;
+}
+.link a{
+	text-decoration:none;
+	color:black;  
+}
+.link a:hover{
+	color: #ef041f;
+	text-decoration:none; 
+
+}
