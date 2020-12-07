@@ -153,4 +153,3 @@ function typeWriter() {
 
 window.addEventListener('scroll', scrollAppear);
 
-  

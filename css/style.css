@@ -5,6 +5,7 @@ body{
     font-family: 'robo' !important;
     max-width:100% ;
     background-color:#121212 ;
+    
 }
 .rw-wrapper{
 	width: 80%;
@@ -360,8 +361,8 @@ body{
   
 }
 .content_box{
-height:560px;
-width:1140px;
+height:80%;
+width:85%;
 background-color:#252525;  
 position:absolute;
 z-index:2;
@@ -2882,6 +2883,7 @@ color:white;
   }
   .html{
     width: 90%;
+    
   }
   .css{
     width: 92%;
